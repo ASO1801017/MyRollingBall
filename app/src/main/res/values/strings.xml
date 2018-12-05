@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyRollingBall</string>
+    <string name="str_btn">RESET</string>
+    <string name="txt_default">Fight</string>
+</resources>
